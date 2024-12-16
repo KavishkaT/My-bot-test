@@ -80,7 +80,7 @@ let up = `▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇ ▆ ▅ ▄ ▃ ▂
 ➥ *Owner:* *KAVI_EXE_🐼💗*
 
 ➥ *Owner Number :*
-https://wa.me/+94760383959?text=_𝑯𝒆𝒚𝒚_Bot_Developer_🗿🍷_\n\nPREFIX: No${prefix}`;
+https://wa.me/+94760383959?text=_𝑯𝒆𝒚𝒚_Bot_Developer_🗿🍷_\n\nPREFIX: No${prefix}`.`
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://pomf2.lain.la/f/pkuujaup.jpg` }, caption: up })
 
